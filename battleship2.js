@@ -59,7 +59,7 @@ function selectOption(){
     });
   });
 
-  console.log(correctAnswer); 
+  // console.log(correctAnswer); 
 }
 
 function checkAnswer(){
